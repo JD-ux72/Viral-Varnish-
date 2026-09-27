@@ -3,5 +3,3 @@ The Business Goal: Predict which nail design styles (e.g., Chrome Ombre, 3D Flow
 
 
 
-okayyyy simphiwe 
-I will go to sleep 
