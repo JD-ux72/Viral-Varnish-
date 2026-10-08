@@ -46,3 +46,24 @@ Viral Varnish uses a hybrid approach combining **Time-Series Analysis** and **Na
 
 ### The Pipeline
 
+
+---
+
+## 🛠️ Tech Stack
+
+- **Language:** Python 3.10+
+- **Data Processing:** Pandas, NumPy
+- **Machine Learning:** Scikit-Learn, XGBoost
+- **NLP:** NLTK / SpaCy (for analyzing reviews and captions)
+- **Visualization:** Plotly / Streamlit (for the dashboard)
+- **Scraping:** BeautifulSoup / Selenium
+
+---
+
+## 📦 Installation & Setup
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/yourusername/viral-varnish.git
+cd viral-varnish
+
