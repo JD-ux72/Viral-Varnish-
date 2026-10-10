@@ -3,7 +3,7 @@
 
 > **"Stop guessing what to paint. Start predicting what will sell."**
 
-**Viral Varnish** is a predictive analytics engine designed for independent nail artists and salon owners. By analyzing social media trends, search volume, and historical sales data, it forecasts which nail design styles will generate the highest **Client Attraction Score** in the next 14 days.
+**Viral Varnish** is a predictive analytics system designed for independent nail artists and salon owners. By analyzing social media trends, search volume, and historical sales data, it forecasts which nail design styles will generate the highest **Client Attraction Score** in the next 14 days.
 
 ---
 
