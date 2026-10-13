@@ -10,7 +10,7 @@
 ## 🚀 The Business Goal
 
 **The Problem:**
-Nail trends move faster than ever. Artists waste hours practicing complex designs (like 3D Flowers or Chrome Ombre) that yield low engagement, while missing out on emerging "viral" styles that could fill their books.
+Nail trends can be able to m9ve faster Artists waste hours practicing complex designs (like 3D Flowers or Chrome Ombre) that yield low engagement, while missing out on emerging "viral" styles that could fill their books.
 
 **The Solution:**
 Viral Varnish tells the artist **exactly what to practice, film, and promote** two weeks in advance.
