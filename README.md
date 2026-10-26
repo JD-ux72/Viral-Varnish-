@@ -38,7 +38,7 @@ We optimize for a composite metric that predicts real-world business growth:
 
 ---
 
-## 🧠 How It Works
+## 🧠 How It actually Works
 
 Viral Varnish uses a hybrid approach combining **Time-Series Analysis** and **Natural Language Processing (NLP)**.
 
